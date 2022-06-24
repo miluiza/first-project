@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Meu primeiro projeto com HTML e CSS.
+
 <!--
 **miluiza/miluiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
